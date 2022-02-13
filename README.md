@@ -2,6 +2,22 @@
 
 Understanding implemented CQRS
 
+## Install
+
+```
+npm install
+```
+
+## Launch
+
+```
+ts-node src/commandBusExample/apps/book/app.ts
+```
+
+```
+ts-node src/queryBusExample/apps/book/app.ts
+```
+
 ## Command Bus
 
 ![command bus](images/commandbus.png)
